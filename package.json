@@ -1,0 +1,15 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "![logo Orinoco](https://github.com/CarolineSenes/SENESCaroline_5_17042021/blob/master/assets/images/logo_orinoco.png) # Construire un site e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./scss/style.scss:./css/style.css --style compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "bootstrap-icons": "^1.5.0"
+  }
+}
